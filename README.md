@@ -31,4 +31,5 @@ Access to the database is performed through a PHP Data Object (PDO) connection. 
 - Ashley Somereville
 
 Bachelor of Applied Science - Information Management: Database Administration concentration
+
 Palm Beach State College

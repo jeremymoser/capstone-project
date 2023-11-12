@@ -1,0 +1,8 @@
+app/classes/.env
+*.jpg
+vendor/
+public_html/assets/images/
+test.*
+.DS_Store
+public_html/.DS_Store
+public_html/assets/.DS_Store
